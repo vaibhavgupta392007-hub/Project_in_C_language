@@ -1,2 +1,5 @@
 # basic_project_in_C_language
-basic project(game).
+<br>
+My First Repository.
+<br>
+Author:- Vaibhav Gupta.
